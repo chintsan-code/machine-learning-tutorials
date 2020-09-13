@@ -1,2 +1,2 @@
-# machine-learning-example
-machine learning example
+# machine-learning-tutorials
+machine learning tutorials
